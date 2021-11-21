@@ -22,11 +22,5 @@ It will be from the concept of the turing machine that Bart Computer will emerge
 ## Schema
 ![arquitetura_8-bit_computer-1](https://user-images.githubusercontent.com/59267719/128603418-89d7fd63-bd19-4d24-991d-388ec0c56ddb.jpg)
 
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
